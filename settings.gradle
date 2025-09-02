@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Heshampp"
-include ':app'
+include(":app")
